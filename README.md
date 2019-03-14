@@ -1,10 +1,8 @@
 # Project Pink Cornflower
 
-A self-watering tray for wildflowers.
+A self-watering tray for wildflowers. [Fusion 360 CAD files](https://a360.co/2TBmJan)
 
-[Fusion 360 CAD files](https://a360.co/2TBmJan)
-
-Oliver Frolovs, 2019
+Original work by Oliver Frolovs, 2019
 
 ![Image of 3D Printed Flower Tray](tray.png)
 
