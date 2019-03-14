@@ -22,11 +22,13 @@ The 3D printing workflow for *each* of the parts is the following:
 
 General Wisdom:
 
-* MDF must be primed with solvent-based primer to prevent surface damage
+* MDF must be primed with solvent-based primer to prevent surface damage. [How to Paint MDF](https://www.bidvine.com/blog/how-to-paint-mdf/) and [Learn the art of priming MDF before you paint](https://www.thesprucecrafts.com/avoid-extra-sanding-prime-mdf-2365111) and [Tips for Painting MDF](https://www.finewoodworking.com/2006/06/06/tips-for-painting-mdf)
+* [Dr Dulux: Paint Finishes Explained](https://www.dulux.co.uk/en/decorating-tips-and-advice/dr-dulux-paint-finishes-explained)
 
 Useful links:
 
 * [Dulux Pick Your Colour Palette](https://www.dulux.co.uk/en/colour-details/)
+* [Self-Watering Planter (Small)](https://www.thingiverse.com/thing:903411) This is where I got the idea of self-watering planter from...
 
 Some Estimates:
 
