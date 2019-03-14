@@ -6,7 +6,7 @@ A self-watering tray for wildflowers.
 
 Oliver Frolovs, 2019
 
-![Image of 3D Printed Flower Tray](tray.png)
+![Image of 3D Printed Flower Tray](tray.png "Image of 3D Printed Flower Tray")
 
 Files:
 
