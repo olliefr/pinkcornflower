@@ -34,13 +34,19 @@ Some Estimates:
 
 * [Dulux Primer for Wood](https://www.dulux.co.uk/en/products/primer-undercoat-wood) covers 16 m^2 per litre. So, a 250 ml can covers 4 m^2.
 
-## MDF parts
+## MDF box parts
 
 Defined in the `Fusion 360` model, referenced above.
 
 All parts:
 * To be laser cut on [Trotec SP1500](https://www.troteclaser.com/en-gb/trotec-laser-machines/laser-cutters-sp-series/)
+* v36 MDF thickness 9 mm
 * v36 kerf 0.13 mm
+
+Quantities:
+* Side x2
+* Front x2
+* Bottom x1
 
 ## 3D printed parts
 
