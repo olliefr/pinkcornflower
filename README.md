@@ -40,8 +40,8 @@ Defined in the `Fusion 360` model, referenced above.
 
 All parts:
 * To be laser cut on [Trotec SP1500](https://www.troteclaser.com/en-gb/trotec-laser-machines/laser-cutters-sp-series/)
-* v36 MDF thickness 9 mm
-* v36 kerf 0.13 mm
+* v43 MDF thickness 9 mm
+* v43 kerf 0.1 mm, applied to one side of the joint only
 
 Quantities:
 * Side x2
