@@ -34,8 +34,6 @@ Some Estimates:
 
 * [Dulux Primer for Wood](https://www.dulux.co.uk/en/products/primer-undercoat-wood) covers 16 m^2 per litre. So, a 250 ml can covers 4 m^2.
 
-
-
 ## 3D printed parts
 
 Defined in the `Fusion 360` model, referenced above.
