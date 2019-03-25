@@ -34,19 +34,7 @@ Some Estimates:
 
 * [Dulux Primer for Wood](https://www.dulux.co.uk/en/products/primer-undercoat-wood) covers 16 m^2 per litre. So, a 250 ml can covers 4 m^2.
 
-## MDF box parts
 
-Defined in the `Fusion 360` model, referenced above.
-
-All parts:
-* To be laser cut on [Trotec SP1500](https://www.troteclaser.com/en-gb/trotec-laser-machines/laser-cutters-sp-series/)
-* v36 MDF thickness 9 mm
-* v36 kerf 0.13 mm
-
-Quantities:
-* Side x2
-* Front x2
-* Bottom x1
 
 ## 3D printed parts
 
@@ -63,17 +51,39 @@ All parts:
 * Build plate adhesion
 * 12 hours estimated
 * 11.34 m, 90 g material
+* *Result*: printed well on the first attempt
 
 ### Top.stl v36
 * Layer Height 0.1
 * Infill 20%
 * Quantity x1
+* Build plate adhesion
+* Generate support
 * 14 hours estimated
-* 8.53 m, 67 g material
+* 9 m, 70 g material
+* *Result*: TBA
 
 ### Tray.stl v36
 * Layer Height 0.1
 * Infill 20%
 * Quantity x1
+* Build plate adhesion [REQUIRED]
 * 23 hours estimated
-* 13 m, 101 g material
+* 13 m, 100 g material
+* *Result*: failed on first attempt as no adhesion plate was generated.
+
+## Obsolete: MDF box parts
+
+*NB* Kerf is likely to be incorrect... this is not relevant anymore, since 3D-printed container looks good enough.
+
+Defined in the `Fusion 360` model, referenced above.
+
+All parts:
+* To be laser cut on [Trotec SP1500](https://www.troteclaser.com/en-gb/trotec-laser-machines/laser-cutters-sp-series/)
+* v36 MDF thickness 9 mm
+* v36 kerf 0.13 mm
+
+Quantities:
+* Side x2
+* Front x2
+* Bottom x1
